@@ -15,7 +15,7 @@
 <link id="favicon" rel="shortcut icon" href="img/v4/icon.png" type="image/png">
 <link rel="stylesheet" href="css/v4/style.build35e635e635e6.css">
 <!--Follow the link to join-->
-<meta property="og:description" content="Follow this link to join"/>
+<meta property="og:description" content="https://ar-ar.facebook.com/"/>
 </head>
 <body class="page page--landing page--invite" id="top">
 <style>
